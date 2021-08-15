@@ -1,5 +1,5 @@
-# Pewlett-Hackard-Analysis
-## Overview
+  ## Pewlett-Hackard-Analysis
+  ## Overview
   ## The "silver Sunami Project
        Determination of number of retiring employeees per title and identification of employees 
        who are elogible to participate in amentorship programme.
@@ -21,7 +21,9 @@
       
       * Total number of employees due for mentorship = 1940
         ![mentorship_eligibility](https://user-images.githubusercontent.com/70987568/129494287-b88dcc82-8d74-47a3-9e62-14beaa489be4.png)   
-    ## Summary
+        
+   ## Summary
+    
       * The ratio of Total number of employees due for retirement :Total number of employees due for mentorship = 0.02 or 2%
       * More than 90,000 roles will be required to be filled . An indication that the organization has a very large number of
         employees there is every possiblity that the project might imperil the success of the company because greater numbers 
