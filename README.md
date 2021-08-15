@@ -17,6 +17,9 @@
       * The least number were seen with Mannager with two numbers
       * Large numbers of Senior Engineer ,Senior Staff and Engineer are due for retirement.
       *Total number of employees due for retirement = 90,398
+      
+      ![Titles](https://user-images.githubusercontent.com/70987568/129494780-ae0584d7-f167-4548-ae41-bb33e2c16e85.png)
+
       ![retirement_titles](https://user-images.githubusercontent.com/70987568/129494282-59167997-760d-4cd8-861c-e403a28469b3.png)
       
       * Total number of employees due for mentorship = 1940
