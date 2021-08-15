@@ -24,14 +24,14 @@
         
    ## Summary
     
-      * The ratio of Total number of employees due for retirement :Total number of employees due for mentorship = 0.02 or 2%
+      * Ratio of total number of employees due for retirement :Total number of employees due for mentorship = 0.02 or 2%
       * More than 90,000 roles will be required to be filled . An indication that the organization has a very large number of
-        employees there is every possiblity that the project might imperil the success of the company because greater numbers 
-        of experienced professionals will leave the company
+        employees . There is every possiblity that the project might imperil the success of the company because greater numbers 
+        of experienced professionals will leave the company.Consequetly, knowledge management would be negatively impacted.
       * We do not have enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees
-      *It is important that the project is carried out in phases to prevent total departmental collapse and negative impact on company performance.
-       Alternatively , the orgnization could support the project with latest technology that combines and automate some processes from different 
-       departments and form a synergistic process for efficiency and profitability
+        It is important that the project is carried out in phases to prevent total departmental collapse and negative impact on company performance.
+        Alternatively , the orgnization could support the project with latest technology that combines and automate some processes from different 
+        departments and form a synergistic process for efficiency,effectiveness, growth and profitability
 
 
 
