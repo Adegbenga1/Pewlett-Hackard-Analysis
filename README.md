@@ -1,6 +1,6 @@
   ## Pewlett-Hackard-Analysis
   ## Overview
-  ## The "silver Sunami Project
+  ## The "Silver Sunami Project
        Determination of number of retiring employeees per title and identification of employees 
        who are elogible to participate in amentorship programme.
        This project supports business cost-savings initiatives that enhance company growth through 
